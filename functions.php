@@ -18,5 +18,5 @@ function totalSum($marks){
 }
 echo "Total marks: ".totalSum($marks)." out of 300<br><br>";
 // echo  $sum; //will give error
-echo "The global function returns: $sum2";
+// echo "The global function returns: $sum2";
 ?>
